@@ -2,6 +2,11 @@
 
 Krei 编程语言，简称K语言，是Kinsope于2021年7月23日开始开发的语言。
 
+### Krei的来源
+
+对这件事感兴趣，但是不渴望成就一个社区，只希望有人会用过Krei后说“这个语言好简单啊”。
+至于为什么起名叫 [Krei]?因为在世界语里，[Krei]是“创造”的意思（我不会世界语）。
+
 ### 代码格式
 
 由于此语言刚刚开始开发，所以只是制定好了初步的语法：
@@ -18,12 +23,9 @@ fun main(){
 }
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+想要了解更多，请观看 [Krei开发手册](https://kinsope-yang.github.io/404.html).
 
-### Jekyll Themes
+### 关于Kinsope
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kinsope-Yang/Kinsope-Yang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+一个没什么好描述的人。
+Email：kinsope@outlook.com
