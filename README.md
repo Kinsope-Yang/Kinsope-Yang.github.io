@@ -2,9 +2,9 @@
 
 Krei 编程语言，简称K语言，是Kinsope于2021年7月23日开始开发的语言。
 
-### 运行原理
+### 代码格式
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+由于此语言刚刚开始开发，所以只是制定好了初步的语法：
 
 ```markdown
 Syntax highlighted code block
