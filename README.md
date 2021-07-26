@@ -7,21 +7,15 @@ Krei 编程语言，简称K语言，是Kinsope于2021年7月23日开始开发的
 由于此语言刚刚开始开发，所以只是制定好了初步的语法：
 
 ```markdown
-Syntax highlighted code block
+# main.ke（此行为注释）
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+fun main(){
+  var a;#弱类型变量
+  a = 100;#此时a为int类型
+  output("a = ",a);
+  input(a);
+  output("a = ",a);
+}
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
