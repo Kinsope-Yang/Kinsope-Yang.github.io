@@ -1,10 +1,8 @@
-## Krei Lang
+## Krei 编程语言
 
-This is Krei.
+Krei 编程语言，简称K语言，是Kinsope于2021年7月23日开始开发的语言。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 运行原理
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
